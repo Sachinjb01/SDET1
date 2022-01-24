@@ -9,6 +9,6 @@ public class Sample {
 	public void samplepro()
 	{
 		System.out.println("user 1 commit");
-		System.out.println("user 1st commit 2nd user");
+		System.out.println("user 1st commit 2nd time");
 	}
 }
