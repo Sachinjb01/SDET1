@@ -12,7 +12,9 @@ public class Sample {
 
 		System.out.println("user 1st commit 2nd time");
 
-		System.out.println("user 2 1st commit");
+		System.out.println("user 2 1st commit ");
+		
+		System.out.println("user 1st branch");
 
 	}
 }
